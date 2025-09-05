@@ -30,7 +30,7 @@ The chatbot answers common questions about Iron Lady's leadership programs:
 
 &nbsp;  git clone https://github.com/<your-username>/ironlady-chatbot.git
 
-&nbsp;  cd ironlady-chatbot
+&nbsp;  cd ironlady\_chatbot
 
 
 
